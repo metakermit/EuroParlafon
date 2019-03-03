@@ -3,7 +3,7 @@
 Data analysis of speakers in the European Parliament
 
 * [europarl.ipynb](./europarl.ipynb) – the initial data scraping
-* [europarl_hr.ipynb](./europarl_hr.ipynb) – Croatian MEPs
+* [europarl_hr.ipynb](./europarl_hr.ipynb) – Croatian MEPs ([interactive visualisation](https://plot.ly/~metakermit/35))
 * [europarl-vis.ipynb](./europarl-vis.ipynb) – quick attempt to visualise all MEPs
 
 ## Data sources
